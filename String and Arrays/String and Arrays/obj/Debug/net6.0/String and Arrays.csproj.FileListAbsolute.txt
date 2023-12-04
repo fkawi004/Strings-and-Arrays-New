@@ -1,0 +1,14 @@
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\String and Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\String and Arrays.AssemblyInfoInputs.cache
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\String and Arrays.AssemblyInfo.cs
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\String and Arrays.csproj.CoreCompileInputs.cache
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\bin\Debug\net6.0\String and Arrays.exe
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\bin\Debug\net6.0\String and Arrays.deps.json
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\bin\Debug\net6.0\String and Arrays.runtimeconfig.json
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\bin\Debug\net6.0\String and Arrays.dll
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\bin\Debug\net6.0\String and Arrays.pdb
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\String and Arrays.dll
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\refint\String and Arrays.dll
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\String and Arrays.pdb
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\String and Arrays.genruntimeconfig.cache
+C:\Users\dulan\Documents\String and Arrays\String and Arrays\obj\Debug\net6.0\ref\String and Arrays.dll
